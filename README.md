@@ -1,6 +1,5 @@
 # Fine Tuned MobileNet On Sign Language Digits 
 
-Welcome to the documentation for Fine-Tuned-MobileNet-On-Sign-Language-Digits, a project focused on developing a deep learning model for recognizing sign language digits using a fine-tuned MobileNet architecture.
 
 ## Overview
 
