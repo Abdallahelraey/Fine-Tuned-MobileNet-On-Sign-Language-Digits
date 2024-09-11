@@ -38,7 +38,7 @@ The project is structured as follows:
 
 To install the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/Fine-Tuned-MobileNet-On-Sign-Language-Digits.git`
+1. Clone the repository: `https://github.com/Abdallahelraey/Fine-Tuned-MobileNet-On-Sign-Language-Digits.git`
 2. Install the required packages: `pip install -r requirements.txt`
 3. Install the project: `python setup.py install`
 
